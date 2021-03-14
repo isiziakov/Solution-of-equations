@@ -1,0 +1,52 @@
+C:\Users\ivans\Documents\SharpDevelop Projects\Solution of equations\Solution of equations\bin\Debug\Solution of equations.exe.config
+C:\Users\ivans\Documents\SharpDevelop Projects\Solution of equations\Solution of equations\bin\Debug\Solution of equations.exe
+C:\Users\ivans\Documents\SharpDevelop Projects\Solution of equations\Solution of equations\bin\Debug\Solution of equations.pdb
+C:\Users\ivans\Documents\SharpDevelop Projects\Solution of equations\Solution of equations\obj\Debug\Solution of equations.csprojResolveAssemblyReference.cache
+C:\Users\ivans\Documents\SharpDevelop Projects\Solution of equations\Solution of equations\obj\Debug\Solution_of_equations.MainForm.resources
+C:\Users\ivans\Documents\SharpDevelop Projects\Solution of equations\Solution of equations\obj\Debug\Solution of equations.csproj.GenerateResource.Cache
+C:\Users\ivans\Documents\SharpDevelop Projects\Solution of equations\Solution of equations\obj\Debug\Solution of equations.exe
+C:\Users\ivans\Documents\SharpDevelop Projects\Solution of equations\Solution of equations\obj\Debug\Solution of equations.pdb
+C:\Users\ivans\Documents\SharpDevelop Projects\Solution of equations\Solution of equations\obj\Debug\Solution_of_equations.Form1.resources
+C:\Users\ivans\Documents\SharpDevelop Projects\Solution of equations\Solution of equations\obj\Debug\Solution_of_equations.Form2.resources
+C:\Users\ivans\Desktop\Solution of equations\Solution of equations\bin\Debug\Solution of equations.exe.config
+C:\Users\ivans\Desktop\Solution of equations\Solution of equations\bin\Debug\Solution of equations.exe
+C:\Users\ivans\Desktop\Solution of equations\Solution of equations\bin\Debug\Solution of equations.pdb
+C:\Users\ivans\Desktop\Solution of equations\Solution of equations\obj\Debug\Solution of equations.csprojResolveAssemblyReference.cache
+C:\Users\ivans\Desktop\Solution of equations\Solution of equations\obj\Debug\Solution_of_equations.Form1.resources
+C:\Users\ivans\Desktop\Solution of equations\Solution of equations\obj\Debug\Solution_of_equations.Form2.resources
+C:\Users\ivans\Desktop\Solution of equations\Solution of equations\obj\Debug\Solution_of_equations.MainForm.resources
+C:\Users\ivans\Desktop\Solution of equations\Solution of equations\obj\Debug\Solution of equations.csproj.GenerateResource.Cache
+C:\Users\ivans\Desktop\Solution of equations\Solution of equations\obj\Debug\Solution of equations.exe
+C:\Users\ivans\Desktop\Solution of equations\Solution of equations\obj\Debug\Solution of equations.pdb
+C:\Users\Ваня\Desktop\Solution of equations\Solution of equations\bin\Debug\Solution of equations.exe.config
+C:\Users\Ваня\Desktop\Solution of equations\Solution of equations\bin\Debug\Solution of equations.exe
+C:\Users\Ваня\Desktop\Solution of equations\Solution of equations\bin\Debug\Solution of equations.pdb
+C:\Users\Ваня\Desktop\Solution of equations\Solution of equations\obj\Debug\Solution of equations.csprojResolveAssemblyReference.cache
+C:\Users\Ваня\Desktop\Solution of equations\Solution of equations\obj\Debug\Solution_of_equations.Form1.resources
+C:\Users\Ваня\Desktop\Solution of equations\Solution of equations\obj\Debug\Solution_of_equations.Form2.resources
+C:\Users\Ваня\Desktop\Solution of equations\Solution of equations\obj\Debug\Solution_of_equations.MainForm.resources
+C:\Users\Ваня\Desktop\Solution of equations\Solution of equations\obj\Debug\Solution of equations.csproj.GenerateResource.Cache
+C:\Users\Ваня\Desktop\Solution of equations\Solution of equations\obj\Debug\Solution of equations.exe
+C:\Users\Ваня\Desktop\Solution of equations\Solution of equations\obj\Debug\Solution of equations.pdb
+C:\Users\ivans\Desktop\Solution of equations_v.2\Solution of equations\bin\Debug\Solution of equations.exe.config
+C:\Users\ivans\Desktop\Solution of equations_v.2\Solution of equations\bin\Debug\Solution of equations.exe
+C:\Users\ivans\Desktop\Solution of equations_v.2\Solution of equations\bin\Debug\Solution of equations.pdb
+C:\Users\ivans\Desktop\Solution of equations_v.2\Solution of equations\obj\Debug\Solution_of_equations.Form1.resources
+C:\Users\ivans\Desktop\Solution of equations_v.2\Solution of equations\obj\Debug\Solution_of_equations.Form2.resources
+C:\Users\ivans\Desktop\Solution of equations_v.2\Solution of equations\obj\Debug\Solution_of_equations.MainForm.resources
+C:\Users\ivans\Desktop\Solution of equations_v.2\Solution of equations\obj\Debug\Solution of equations.csproj.GenerateResource.Cache
+C:\Users\ivans\Desktop\Solution of equations_v.2\Solution of equations\obj\Debug\Solution of equations.exe
+C:\Users\ivans\Desktop\Solution of equations_v.2\Solution of equations\obj\Debug\Solution of equations.pdb
+C:\Users\ivans\Desktop\Solution of equations_v.2\Solution of equations\obj\Debug\Solution of equations.csprojAssemblyReference.cache
+C:\Users\ivans\Desktop\Solution of equations_v.2\Solution of equations\obj\Debug\Solution of equations.csproj.CoreCompileInputs.cache
+C:\Users\ivans\OneDrive\Solution of equations_v.2\Solution of equations\bin\Debug\Solution of equations.exe.config
+C:\Users\ivans\OneDrive\Solution of equations_v.2\Solution of equations\bin\Debug\Solution of equations.exe
+C:\Users\ivans\OneDrive\Solution of equations_v.2\Solution of equations\bin\Debug\Solution of equations.pdb
+C:\Users\ivans\OneDrive\Solution of equations_v.2\Solution of equations\obj\Debug\Solution of equations.csprojAssemblyReference.cache
+C:\Users\ivans\OneDrive\Solution of equations_v.2\Solution of equations\obj\Debug\Solution_of_equations.Form1.resources
+C:\Users\ivans\OneDrive\Solution of equations_v.2\Solution of equations\obj\Debug\Solution_of_equations.Form2.resources
+C:\Users\ivans\OneDrive\Solution of equations_v.2\Solution of equations\obj\Debug\Solution_of_equations.MainForm.resources
+C:\Users\ivans\OneDrive\Solution of equations_v.2\Solution of equations\obj\Debug\Solution of equations.csproj.GenerateResource.cache
+C:\Users\ivans\OneDrive\Solution of equations_v.2\Solution of equations\obj\Debug\Solution of equations.csproj.CoreCompileInputs.cache
+C:\Users\ivans\OneDrive\Solution of equations_v.2\Solution of equations\obj\Debug\Solution of equations.exe
+C:\Users\ivans\OneDrive\Solution of equations_v.2\Solution of equations\obj\Debug\Solution of equations.pdb
